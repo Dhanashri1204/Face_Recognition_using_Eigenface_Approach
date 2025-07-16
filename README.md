@@ -19,4 +19,4 @@ Unknown face and non-face images used in this project are not included and shoul
 -Turk, M., & Pentland, A. (1991). "Eigenfaces for Recognition." *Journal of Cognitive Neuroscience, 3*(1), 71–86.
 -Strang, G. (2019). *Linear Algebra and Learning from Data*. Wellesley-Cambridge Press.
 
-Project by Dhanashri Suresh More, IISER Mohali.
+Project by Dhanashri Suresh More.
